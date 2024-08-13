@@ -17,11 +17,11 @@ const questions = [
     {
         question: "Oh... vas muy bien. Esta será más difícil... ¿Cuál de estos animalitos representa algo entrañable entre Juan y tú?",
         options: ["Vaca", "Avestruz", "Tortuga", "Un pomeranian, un mapache y... una... hormiguita"],
-        correct: 0
+        correct: 3
     },
     {
         question: "La siguiente frase le da bastante risa a Juan cuando Jenni la usa...",
-        options: ["Tenemos que hablar", "Hoy mejor no nos vemos", "Eso está mal engendrado", "Hoy comemos pescado salado con extra de sal"],
+        options: ["Tenemos que hablar", "Hoy mejor no nos vemos", "Eso está... mal engendrado", "Hoy comemos pescado salado con extra de sal"],
         correct: 2
     },
     {
